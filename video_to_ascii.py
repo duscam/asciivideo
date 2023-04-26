@@ -1,8 +1,6 @@
 import imageio
 import numpy as np
 import time
-import sys
-import os
 
 class AsciiVideo:
     def __init__(self, video_path, ascii_chars_file):
