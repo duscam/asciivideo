@@ -1,0 +1,8 @@
+{
+    "name": "Debug Video to ASCII",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/video_to_ascii.py",
+    "args": ["video.mp4"],
+    "cwd": "${workspaceFolder}"
+}
