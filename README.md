@@ -1,6 +1,8 @@
 # asciivideo
 
 ## Install requirements
+  - install python and add it to your machine env variables along with pip
+  - add virtualenv globally `pip install virtualenv`
 
 ### Create virtualenv
 python -m virtualenv venv
